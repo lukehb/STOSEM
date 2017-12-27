@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openstreetmap.osmosis:osmosis-osm-binary:0.45">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-osm-binary/0.45/1c6f7b0230f5924cad9f305a04c02c6bf521d290/osmosis-osm-binary-0.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-osm-binary/0.45/22a38cff3987bdfcaa856eae6f38734812f7c0e6/osmosis-osm-binary-0.45-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

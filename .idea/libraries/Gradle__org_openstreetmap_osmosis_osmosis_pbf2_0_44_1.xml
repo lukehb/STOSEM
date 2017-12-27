@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openstreetmap.osmosis:osmosis-pbf2:0.44.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-pbf2/0.44.1/e8cf597fe49d55930298124fbb3890558ba5ae13/osmosis-pbf2-0.44.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-pbf2/0.44.1/b4cf543cff50bed37572885cbc8f0287f6e49e64/osmosis-pbf2-0.44.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-pbf2/0.44.1/f96a38a929fb1285ccd026c4ef64848199a354f9/osmosis-pbf2-0.44.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

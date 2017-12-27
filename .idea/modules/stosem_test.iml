@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="stosem:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="onethreeseven" external.system.module.type="sourceSet" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_9">
+    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="stosem_main" />
+    <orderEntry type="library" name="Gradle: onethreeseven:datastructures:0.0.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: onethreeseven:common:0.0.5-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: onethreeseven:collections:0.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.trove4j:trove4j:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-pbf2:0.44.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-pbf:0.44.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphhopper:graphhopper-map-matching-core:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphhopper:graphhopper-reader-osm:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-osm-binary:0.45" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-areafilter:0.44.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-xml:0.44.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphhopper:graphhopper-core:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.vividsolutions:jts:1.13" level="project" />
+    <orderEntry type="library" name="Gradle: me.atlis:foursquare-api:1.0.6" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: onethreeseven:geo:0.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java:2.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openstreetmap.osmosis:osmosis-core:0.44.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphhopper.external:hmm-lib:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20090211" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.woodstox:woodstox-core-lgpl:4.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: xerces:xercesImpl:2.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.woodstox:stax2-api:3.1.4" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jpf:jpf:1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.xmlgraphics:xmlgraphics-commons:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.carrotsearch:hppc:0.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:1.3.1" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="stosem_main" />
+</module>

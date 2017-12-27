@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: onethreeseven:collections:0.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/onethreeseven/collections/0.0.2/collections-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/onethreeseven/collections/0.0.2/collections-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

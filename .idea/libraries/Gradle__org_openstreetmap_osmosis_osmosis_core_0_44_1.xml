@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openstreetmap.osmosis:osmosis-core:0.44.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-core/0.44.1/c7f1826c8b70e9d5d463edaeba2085f3ad705446/osmosis-core-0.44.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-core/0.44.1/d26f3441c4a5b323635dd693bed841b8b6f1e0a9/osmosis-core-0.44.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openstreetmap.osmosis/osmosis-core/0.44.1/c5a998066a3e03812a248084276cd4f399589aff/osmosis-core-0.44.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
