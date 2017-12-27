@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Automatic-Module-Name: onethreeseven.stosem
-Implementation-Title: stosem
-Implementation-Version: 0.0.1
-Built-By: lukeh
-Built-Date: Wed Dec 27 23:58:25 AEST 2017
-Built-JDK: 9.0.1
-
